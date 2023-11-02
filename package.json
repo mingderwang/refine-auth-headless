@@ -1,5 +1,5 @@
 {
-  "name": "auth-headless",
+  "name": "refine-auth-headless",
   "private": true,
   "scripts": {
     "start": "refine dev",
